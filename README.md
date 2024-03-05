@@ -68,3 +68,6 @@ Para que el código pueda funcionar de manera correcta es **necesario** tener la
  + Numpy
  + Matplotlib
  + Seaborn
+
+
+He encontrado muchos problemas en la codificación de las variables nominales y binarias por lo que me gustaría trabajar más en ellas para la siguiente parte del proyecto. Espero que al terminar el semestre, pase de ser solo una herramienta de analísis a realmente un modelo predictivo que pueda funcionar.
