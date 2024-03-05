@@ -1,4 +1,4 @@
-Proyect-data-analysis
+# Proyect-data-analysis
 ==============================
 
 The final project for the class of programming for data analytics
@@ -55,3 +55,16 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+### Descripción del proyecto
+Con un Dataset creado por Paulo Cortez y Alice Silva en el 2014, se intenta modelar las calificaciones de los estudiantes de una escuela secundaria de Portugal a través de diferentes features que nos cuentan sobre el ambiente demográfico en el que se desarrollan los estudiantes. A través de este proyecto se intenta ver que tanto influye (si es lo que lo hace) los medios o el estilo de vida de los jóvenes a su rendimiento escolar.
+
+
+Todos los avances del proyecto se encuentran dentro de un Jupyter Notebook en la carpeta de notebooks. 
+
+
+Para que el código pueda funcionar de manera correcta es **necesario** tener las siguientes bibliotecas instaladas:
+ + Pandas
+ + Numpy
+ + Matplotlib
+ + Seaborn
