@@ -1,3 +1,10 @@
+### Proyect Description
+In 2008, Paulo Cortez and Alice Silva recollected information of the students from two schools in Portugal. They divided them in a group which studies Portuguese and the other Math.
+
+This dataset contains three variables that represent the grades that the student got in different partials. In this proyect, I concatenated them to create a general grade variable that I will try to predict by using different algorithms to maximize the score. 
+
+
+
 # Proyect-data-analysis
 ==============================
 
@@ -55,19 +62,3 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
-
-### Descripción del proyecto
-Con un Dataset creado por Paulo Cortez y Alice Silva en el 2014, se intenta modelar las calificaciones de los estudiantes de una escuela secundaria de Portugal a través de diferentes features que nos cuentan sobre el ambiente demográfico en el que se desarrollan los estudiantes. A través de este proyecto se intenta ver que tanto influye (si es lo que lo hace) los medios o el estilo de vida de los jóvenes a su rendimiento escolar.
-
-
-Todos los avances del proyecto se encuentran dentro de un Jupyter Notebook en la carpeta de notebooks. 
-
-
-Para que el código pueda funcionar de manera correcta es **necesario** tener las siguientes bibliotecas instaladas:
- + Pandas
- + Numpy
- + Matplotlib
- + Seaborn
-
-
-He encontrado muchos problemas en la codificación de las variables nominales y binarias por lo que me gustaría trabajar más en ellas para la siguiente parte del proyecto. Espero que al terminar el semestre, pase de ser solo una herramienta de analísis a realmente un modelo predictivo que pueda funcionar.
